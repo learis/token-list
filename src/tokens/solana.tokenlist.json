@@ -16225,6 +16225,20 @@
     },
     {
       "chainId": 101,
+      "address": "Govmxoaggo4SFRHonxGLMqjb7Zy4MWcfsT8BGimbNTqe",
+      "symbol": "GOM",
+      "name": "Gomsal Coin",
+      "decimals": 2,
+      "logoURI": "http://pythonicbible.com/gomsal/gomsal.jpg",
+      "tags": [
+        "erkaller token",
+        "NFT",
+        "Social",
+        "Coin"
+      ]
+    },
+    {
+      "chainId": 101,
       "address": "1YDQ35V8g68FGvcT85haHwAXv1U7XMzuc4mZeEXfrjE",
       "symbol": "WGMI",
       "name": "WGMI NFT Collector's Club",
